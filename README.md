@@ -1,3 +1,4 @@
 # rusume
-first_file
-thank u for reading it!
+first_file.
+Thank u for reading it!
+2018年10月27日
